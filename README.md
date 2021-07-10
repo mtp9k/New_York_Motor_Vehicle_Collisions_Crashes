@@ -4,3 +4,7 @@ Information on this dataset is found thought the NYC open data project. This dat
 
 The data set including the data dictionary was pulled from the following resource.
 https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
+
+Data set direct download link:
+https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD
+
